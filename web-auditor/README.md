@@ -13,7 +13,7 @@ A Gemini skill that audits websites for performance, Core Web Vitals, and techni
 
 ```
 web-auditor/
-├── SKILL.md                        # Gemini skill definition
+├── SKILL.md                        # Gemini/Claude/other ai-tools skill definition
 ├── scripts/
 │   ├── web_performance_audit_v2.py # Main auditor script
 │   └── generate_audit_deck.py      # PowerPoint generation script (template optional)

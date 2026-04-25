@@ -1,6 +1,6 @@
 # Akamai Audit Python Agent
 
-This folder contains a Python migration of the retained Akamai audit flows from the Apps Script project.
+This folder contains a skill to audit akamai account, property and traffic data.
 
 Included flows:
 
@@ -11,14 +11,6 @@ Included flows:
 - property criteria matches (Path/IP/Regex/File Extension)
 - cloudlets
 - traffic
-
-Excluded flows (intentionally):
-
-- WPT
-- CrUX
-- AppSec
-- Alerts
-- DNS resolver
 
 ## Authentication
 
